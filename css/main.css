@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+    /*outline: 1px solid crimson;*/
+    background-color: black;
+}
+
+ul {
+    /*outline: 1px solid rgb(20, 220, 30);*/
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    /*outline: 1px solid mediumslateblue;*/
+    width: 100px;
+    display: inline-block;
+    line-height: 30px;
+    text-align: center
+}
+
+img {
+    max-width: 1024px;
+    margin-top: 60px;
+}
+
+div {}
+
+a {
+    /*outline: 1px solid black;*/
+    text-decoration: none;
+    display: block;
+    color: cornsilk;
+}
+
+a:hover {
+    background-color: darkgoldenrod;
+}

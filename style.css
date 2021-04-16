@@ -1,0 +1,32 @@
+.encabezado {
+    color: blue !important;
+    text-decoration: underline;
+}
+
+h1 {
+    color: chartreuse;
+    text-decoration: underline;
+}
+
+#identificador {
+    color: rgb(255, 0, 212);
+    font-size: 343%;
+    text-align: center;
+}
+
+.sección1 {
+    background-color: dimgray;
+    color: gold;
+    text-decoration: underline;
+    width: 300px;
+    height: 100px;
+}
+
+.sección2 {
+    background-color: darkcyan;
+    color: darksalmon;
+    text-decoration: underline;
+    width: 500px;
+    height: 600px;
+    text-align: center;
+}
